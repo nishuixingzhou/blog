@@ -46,7 +46,7 @@
 <div class="intrude-less">
 	<header id="header" class="inner">
 		<a href="/blog/" class="profilepic">
-			<img src="../img/strlen.gif" class="js-avatar">
+			<img src="img/strlen.gif" class="js-avatar">
 		</a>
 		<hgroup>
 		  <h1 class="header-author"><a href="/blog/">Shen Kun</a></h1>
