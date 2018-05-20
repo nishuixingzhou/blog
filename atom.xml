@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://nishuixingzhou.github.io/blog/"/>
   <updated>2018-05-20T03:41:37.526Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://nishuixingzhou.github.io/blog/</id>
   
   <author>
     <name>Shen Kun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2018/05/20/article-title/"/>
-    <id>http://yoursite.com/2018/05/20/article-title/</id>
+    <link href="https://nishuixingzhou.github.io/blog/2018/05/20/article-title/"/>
+    <id>https://nishuixingzhou.github.io/blog/2018/05/20/article-title/</id>
     <published>2018-05-20T03:40:12.000Z</published>
     <updated>2018-05-20T03:41:37.526Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/05/20/hello-world/"/>
-    <id>http://yoursite.com/2018/05/20/hello-world/</id>
+    <link href="https://nishuixingzhou.github.io/blog/2018/05/20/hello-world/"/>
+    <id>https://nishuixingzhou.github.io/blog/2018/05/20/hello-world/</id>
     <published>2018-05-20T02:24:58.863Z</published>
     <updated>2018-05-20T02:24:58.863Z</updated>
     
