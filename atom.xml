@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ѧ־�β���</title>
+  <title>学志の博客</title>
   
-  <subtitle>��¼ѧϰ�ļ��ܺ�����������</subtitle>
+  <subtitle>记录学习的技能和遇到的问题</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://nishuixingzhou.github.io/blog/"/>
